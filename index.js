@@ -55,4 +55,4 @@ app.post('/create',(req,res)=>
             res.redirect('/') // As soon you as you click on the submit button, the route is redirected to primary
         })
     })
-app.listen(3000,()=>{console.log("Listening....")})
+app.listen(3000,'0.0.0.0')//()=>{console.log("Listening....")}) //update the ip address to the network you are connected to + ipconfig for your ip address
