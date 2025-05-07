@@ -7,3 +7,5 @@ Features:
 Cons:
   Locally hosted
   Just learning
+
+-- Empty file folder not being updated. Etnry your own file folder --
